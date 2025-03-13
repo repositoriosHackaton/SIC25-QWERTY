@@ -15,11 +15,11 @@
 
 Este proyecto utiliza técnicas de machine learning para predecir la masa invariante resultante de colisiones de dos electrones utilizando datos del CERN. El dataset incluye características relacionadas con la energía, el momento, la pseudorapidez, el ángulo phi y otras variables derivadas del evento de colisión. Se aplicaron modelos como LightGBM, XGBoost y CatBoost para entrenar el sistema y evaluar su desempeño en la predicción de la masa invariante.
 
-![alt text](1.jpg)
+![alt text](imagenes/1.jpg)
 
 * Arquitectura del proyecto
 
-![alt text](2.jpg)
+![alt text](imagenes/2.jpg)
 
 * Proceso de desarrollo:
 
@@ -39,24 +39,24 @@ Finalmente, la unidad del modelo simplemente contendrá el algoritmo de aprendiz
 
 Visualizacion de limpieza.
 
-![alt text](3.jpg)
+![alt text](imagenes/3.jpg)
 
 
 -Manejo excepciones/control errores
 
 Visualizacion de columnas duplicadas.
 
-![alt text](4.jpg)
+![alt text](imagenes/4.jpg)
 
 Manejo de columnas duplicadas.
 
-![alt text](5.jpg)
+![alt text](imagenes/5.jpg)
 
 -Estadísticos (Valores, gráficos, …)
 
 Distribucion de la masa invariante. Se pueden observas unos picos que corresponden a energias de particulas fundamentales.
 
-![alt text](6.jpg)
+![alt text](imagenes/6.jpg)
 
 * Funcionalidades extra:
 
